@@ -10,7 +10,7 @@
 
 
 ---
-
+🦷 Medical AI Specialis | 🛠 Full-stack Dev
 
 
 ### 🔎 Profile
