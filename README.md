@@ -69,7 +69,9 @@
 - **주요 프로젝트 포트폴리오**
 
   - 담당한 프로젝트를 최신순으로 구성했습니다. (세부 내용은 포트폴리오 참고)
+https://github.com/Leeyeon52/25_07_21_Flutter1
 
+<img width="1589" height="1137" alt="스크린샷 2025-08-22 104251" src="https://github.com/user-attachments/assets/f52e7554-6873-45ca-9ad3-eee960b323c5" />
 
 
 ---
