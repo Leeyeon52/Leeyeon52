@@ -1,117 +1,88 @@
+# 👋 Hi, I'm 이성윤 (Seongyun Lee)
 
-### 👋 Hi, I'm 이성윤!
-
-
-
-**AI 개발을 꿈꾸는 이성윤입니다.**
-
-건양대학교 바이오메디컬 프로그램에서 의료 데이터 분석과 AI 알고리즘을 학습했으며, Python을 활용한 의료 이미지 분석 프로젝트를 통해 실무 역량을 키웠습니다. 비전공자로서의 한계를 꾸준한 학습과 협업으로 극복했으며, 다양한 분야 전문가들과 소통하며 융합형 인재로 성장하고 있습니다. 앞으로도 교육과 기술을 연결하는 가교 역할을 수행하겠습니다.
-
-🦷 Medical AI Specialis | 🛠 Full-stack Dev
+🧠 AI/ML Learner | 🦷 Medical AI Specialist | 🛠 Full-stack Developer  
 
 ---
 
+## 📌 About Me
 
+AI 개발을 통해 사람들의 삶에 긍정적인 영향을 주고 싶은 이성윤입니다.  
+**건양대학교 바이오메디컬 AI 과정**을 통해 **의료 데이터 분석**과 **AI 모델 개발** 역량을 키웠으며,  
+**Flutter 및 Python** 기반의 프로젝트를 진행하며 실무 능력을 쌓았습니다.
 
-### 🔎 Profile
-
-
-
-**학력**
-
-- **전주대학교 사범대/중등특수교육학** (2020 - 2024 졸업)
-
-- **건양대학교병원 바이오메디컬 인공지능 개발자 과정** (2025.02 ~ 2025.09)
-
-
-
-**기타**
-
-- 독일 어학연수 (2017.03 ~ 2018.01)
-
-
-**수상**
-- K-디지털 트레이닝 해커톤 수상
----
-
-
-
-### ⚒️ Skills
-
-
-
-**💪 Hard Skills**
-
-- **데이터 & 분석**: SQL, Python, R, MySQL, MongoDB, 데이터 시각화
-
-- **프로그래밍 & 개발**: HTML, CSS, JavaScript, Flutter, React, Vue.js, Node.js, Python (Flask, FastAPI), RESTful API 설계 및 개발, DB 모델링
-
-- **디자인 & 콘텐츠 제작**: Adobe Photoshop, Illustrator, InDesign, Premiere Pro, After Effects
-
-- **툴**: Power BI, Jupyter Notebook, Google Colab, RStudio, Git, GitHub, VS Code, Docker, Figma, Jira, Confluence
-
-
-
-**💡Soft Skills**
-
-- 계획성, 성실성, 꼼꼼함, 집중력, 노력, 책임감, 정직성, 배려심, 호기심
-
-
+비전공자의 한계를 꾸준한 학습과 협업으로 극복해 왔고, 다양한 전문가들과 소통하며 **융합형 인재**로 성장하고 있습니다.
 
 ---
 
+## 🧠 Tech Stack
 
-
-### 👩🏻‍💻 Projects
-
-
-
-- **주요 프로젝트 포트폴리오**
-
-  - 담당한 프로젝트를 최신순으로 구성했습니다. (세부 내용은 포트폴리오 참고)
-https://github.com/Leeyeon52/25_07_21_Flutter1
-https://github.com/HoJun-7/25_07_21_Flutter/branches  브런치를 해서 작업하였음 밑에 브런치 한 자료
-<img width="1589" height="1137" alt="스크린샷 2025-08-22 104251" src="https://github.com/user-attachments/assets/f52e7554-6873-45ca-9ad3-eee960b323c5" />
-https://github.com/Lee-Jong-Hyuk-92/MediTooth/branches 브런치를 해서 작업하였음 밑에 브런치 한 자료
-<img width="1584" height="235" alt="스크린샷 2025-08-22 104936" src="https://github.com/user-attachments/assets/f292444d-0177-4682-90de-59f3e56ad81f" />
-https://github.com/ToothAI-Team
-
-
+- **데이터 분석**: Python, R, SQL, MySQL, MongoDB, Power BI  
+- **프로그래밍**: HTML, CSS, JavaScript, Flutter, React, Vue.js, Node.js  
+- **백엔드 & API**: Python (Flask, FastAPI), RESTful API, DB 모델링  
+- **디자인 & 콘텐츠**: Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, Figma  
+- **개발 도구**: Git, GitHub, VS Code, Jupyter Notebook, Colab, RStudio, Docker, Jira, Confluence  
 
 ---
 
+## 📊 Career Timeline
 
+**🎓 전주대학교 사범대 중등특수교육학과**  
+_2020.03 ~ 2024.02_  
+: 교육 기반의 사고와 사람 중심 소통 능력 함양  
 
-### 💫 About me
+**🏥 건양대학교병원 바이오메디컬 AI 개발자 과정 (K-Digital Training)**  
+_2025.02 ~ 2025.09_  
+: 의료 이미지 분석, AI 알고리즘 설계, 프로젝트 협업  
 
-
-
-**🙋🏻 How i work**
-
-- 새로운 지식과 기술에 대해 항상 열린 자세로 배우고 성장합니다.
-
-- 책임감을 가지고 기한을 엄수하여 신뢰를 쌓습니다.
-
-- 예상치 못한 상황에서도 침착하게 문제를 분석하고 해결책을 찾습니다.
-
-- 협업을 통해 다양한 관점을 존중하고 만족스러운 결과를 도출합니다.
-
-- 사회와 조직에 긍정적인 영향을 주며 함께 성장하는 환경을 만듭니다.
-
-
+**🌍 독일 어학연수**  
+_2017.03 ~ 2018.01_  
+: 글로벌 커뮤니케이션 역량 및 자기주도 학습 경험  
 
 ---
 
+## 🏆 Awards & Certifications
 
+- 🏅 K-디지털 트레이닝 해커톤 수상 (2025.09)
+- 📘 독일어 어학연수 수료
+- 📊 다양한 AI/의료 관련 프로젝트 참여
 
-### 📫 Contact
+---
 
+## 📁 Projects (GitHub 기반 협업)
 
+| 프로젝트명 | 기술 스택 | 설명 |
+|------------|------------|------|
+| [📱 Flutter 의료 앱](https://github.com/Leeyeon52/25_07_21_Flutter1) | Flutter, Dart | Flutter 기반 프론트엔드 개발 참여 |
+| [🧠 MediTooth 플랫폼](https://github.com/ToothAI-Team) | Python, FastAPI, MongoDB | 치과용 AI 의료 플랫폼 백엔드 협업 |
+| [📊 DACON 의료 AI 분석](https://github.com/Leeyeon52/Dacon-2025-08-25-Deacon-Basic-Starter) | Python, Jupyter | 의료 데이터 기반 분석 및 모델링 |
 
-- **Email**: dsy4907@gmail.com
+👉 협업 브랜치 작업 참고:  
+- [HoJun-7 Flutter 브랜치](https://github.com/HoJun-7/25_07_21_Flutter/branches)  
+  <img width="1589" alt="flutter branch" src="https://github.com/user-attachments/assets/f52e7554-6873-45ca-9ad3-eee960b323c5" />
 
-- **Phone**: +82 10-8010-4907
+- [MediTooth 브랜치 작업](https://github.com/Lee-Jong-Hyuk-92/MediTooth/branches)  
+  <img width="1584" alt="meditooth branch" src="https://github.com/user-attachments/assets/f292444d-0177-4682-90de-59f3e56ad81f" />
 
-- **Github**: [https://github.com/Leeyeon52](https://github.com/Leeyeon52)
+---
 
-- **Address**: 완주군 낙평장기로10
+## 💡 How I Work
+
+- ✅ 새로운 기술을 배우는 데 항상 **열려 있습니다**
+- ✅ **기한을 엄수**하며 책임감 있게 일합니다
+- ✅ 문제 상황에서도 침착하게 **해결책을 도출**합니다
+- ✅ 팀원 간 소통과 **협업**을 중요시합니다
+- ✅ 조직과 함께 **성장하는 인재**가 되기 위해 노력합니다
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: [dsy4907@gmail.com](mailto:dsy4907@gmail.com)  
+- 📱 Phone: +82 10-8010-4907  
+- 🐙 GitHub: [https://github.com/Leeyeon52](https://github.com/Leeyeon52)  
+- 📍 Address: 전라북도 완주군 낙평장기로 10
+
+---
+
+> 👏 방문해주셔서 감사합니다!  
+> 함께 성장할 기회를 언제든 기다리고 있습니다.
