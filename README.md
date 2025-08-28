@@ -1,6 +1,8 @@
-# 👋 Hi, I'm 이성윤 (Seongyun Lee)
+<h1 align="center">👋 Hi, I'm 이성윤 (Seongyun Lee)</h1>
 
+<p align="center">
 🧠 AI/ML Learner | 🦷 Medical AI Specialist | 🛠 Full-stack Developer  
+</p>
 
 ---
 
@@ -16,27 +18,42 @@ AI 개발을 통해 사람들의 삶에 긍정적인 영향을 주고 싶은 이
 
 ## 🧠 Tech Stack
 
-- **데이터 분석**: Python, R, SQL, MySQL, MongoDB, Power BI  
-- **프로그래밍**: HTML, CSS, JavaScript, Flutter, React, Vue.js, Node.js  
-- **백엔드 & API**: Python (Flask, FastAPI), RESTful API, DB 모델링  
-- **디자인 & 콘텐츠**: Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, Figma  
-- **개발 도구**: Git, GitHub, VS Code, Jupyter Notebook, Colab, RStudio, Docker, Jira, Confluence  
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 Career Timeline
+## 📊 GitHub Stats
 
-**🎓 전주대학교 사범대 중등특수교육학과**  
-_2020.03 ~ 2024.02_  
-: 교육 기반의 사고와 사람 중심 소통 능력 함양  
+<div align="center">
 
-**🏥 건양대학교병원 바이오메디컬 AI 개발자 과정 (K-Digital Training)**  
-_2025.02 ~ 2025.09_  
-: 의료 이미지 분석, AI 알고리즘 설계, 프로젝트 협업  
+<img src="https://github-readme-stats.vercel.app/api?username=Leeyeon52&show_icons=true&theme=radical" width="450" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeyeon52&layout=compact&theme=radical" width="350" />
 
-**🌍 독일 어학연수**  
-_2017.03 ~ 2018.01_  
-: 글로벌 커뮤니케이션 역량 및 자기주도 학습 경험  
+</div>
 
 ---
 
@@ -57,11 +74,8 @@ _2017.03 ~ 2018.01_
 | [📊 DACON 의료 AI 분석](https://github.com/Leeyeon52/Dacon-2025-08-25-Deacon-Basic-Starter) | Python, Jupyter | 의료 데이터 기반 분석 및 모델링 |
 
 👉 협업 브랜치 작업 참고:  
-- [HoJun-7 Flutter 브랜치](https://github.com/HoJun-7/25_07_21_Flutter/branches)  
-  <img width="1589" alt="flutter branch" src="https://github.com/user-attachments/assets/f52e7554-6873-45ca-9ad3-eee960b323c5" />
-
-- [MediTooth 브랜치 작업](https://github.com/Lee-Jong-Hyuk-92/MediTooth/branches)  
-  <img width="1584" alt="meditooth branch" src="https://github.com/user-attachments/assets/f292444d-0177-4682-90de-59f3e56ad81f" />
+[HoJun-7 Flutter 브랜치](https://github.com/HoJun-7/25_07_21_Flutter/branches)  
+[MediTooth 브랜치 작업](https://github.com/Lee-Jong-Hyuk-92/MediTooth/branches)
 
 ---
 
@@ -80,7 +94,7 @@ _2017.03 ~ 2018.01_
 - ✉️ Email: [dsy4907@gmail.com](mailto:dsy4907@gmail.com)  
 - 📱 Phone: +82 10-8010-4907  
 - 🐙 GitHub: [https://github.com/Leeyeon52](https://github.com/Leeyeon52)  
-- 📍 Address: 전라북도 완주군 낙평장기로 10
+- 📍 Address: 전라북도 완주군 낙평장기로 10  
 
 ---
 
