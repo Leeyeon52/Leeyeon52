@@ -38,11 +38,20 @@ AI 개발을 통해 사람들의 삶에 긍정적인 영향을 주고 싶은 이
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white).
 
 </div>
+
+---
+
+### 📚 분야별 기술 요약
+
+- **데이터 분석**: Python, R, SQL, MySQL, MongoDB, Power BI  
+- **프로그래밍**: HTML, CSS, JavaScript, Flutter, React, Vue.js, Node.js  
+- **백엔드 & API**: Python (Flask, FastAPI), RESTful API, DB 모델링  
+- **디자인 & 콘텐츠**: Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, Figma  
+- **개발 도구**: Git, GitHub, VS Code, Jupyter Notebook, Colab, RStudio, Docker, Jira, Confluence
+
 
 ---
 
