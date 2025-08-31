@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
 ### 🔬 AI & Data
 Python, PyTorch, TensorFlow, SQL, MongoDB, MySQL, Power BI  
@@ -46,7 +46,7 @@ Figma, Photoshop, Illustrator, Premiere Pro, After Effects
 - 🥇 **K-디지털 해커톤 자유과제 수상 (2025)**  
   - 프로젝트: *MediTooth – 생성형 AI 및 다중 진단 모델 기반 원격 구강 의료 플랫폼*  
   - 역할: **AI 모델링 + 백엔드 개발**  
-  - 성과: 고령층·도서지역 의료 접근성 문제 해결 아이디어 제시
+  - 성과: 고령층·도서지역 의료 접근성 문제 해결, 실제 서비스 프로토타입 완성
 
 - 📘 **독일어 어학연수 수료**  
 
@@ -54,11 +54,11 @@ Figma, Photoshop, Illustrator, Premiere Pro, After Effects
 
 ## 📁 Projects (GitHub 기반 협업)
 
-| 프로젝트명 | 기술 스택 | 설명 |
-|------------|------------|------|
-| [📱 Flutter 의료 앱](https://github.com/Leeyeon52/25_07_21_Flutter1) | Flutter, Dart | Flutter 기반 **프론트엔드 개발 참여**, UI/UX 구현 |
-| [🧠 MediTooth 플랫폼](https://github.com/ToothAI-Team) | Python, FastAPI, MongoDB | **치과용 AI 의료 플랫폼** 백엔드 협업, AI 모델 통합 |
-
+| 프로젝트명 | 기술 스택 | 역할 & 성과 |
+|------------|------------|------------|
+| [📱 Flutter 의료 앱](https://github.com/Leeyeon52/25_07_21_Flutter1) | Flutter, Dart | Flutter 기반 **프론트엔드 개발 참여**, UI/UX 구현 및 앱 기능 확장 |
+| [🧠 MediTooth 플랫폼](https://github.com/ToothAI-Team) | Python, FastAPI, MongoDB | **AI 모델 통합 및 백엔드 개발**, 의료 데이터 처리 자동화 |
+| [📊 DACON 의료 AI 분석](https://github.com/Leeyeon52/Dacon-2025-08-25-Deacon-Basic-Starter) | Python, Jupyter | **의료 데이터 분석 및 모델링**, 성능 향상 및 결과 시각화 |
 
 👉 협업 브랜치 작업 참고:  
 [HoJun-7 Flutter 브랜치](https://github.com/HoJun-7/25_07_21_Flutter/branches)  
@@ -68,11 +68,11 @@ Figma, Photoshop, Illustrator, Premiere Pro, After Effects
 
 ## 💡 How I Work
 
-- ✅ 새로운 기술을 배우는 데 항상 **열려 있습니다**  
-- ✅ **기한을 엄수**하며 책임감 있게 일합니다  
-- ✅ 문제 상황에서도 침착하게 **해결책을 도출**합니다  
-- ✅ 팀원 간 소통과 **협업**을 중요시합니다  
-- ✅ 조직과 함께 **성장하는 인재**가 되기 위해 노력합니다
+- ✅ **새로운 기술 습득**에 항상 열려 있습니다  
+- ✅ **기한 준수**와 책임감 있는 업무 수행  
+- ✅ 문제 상황에서도 침착하게 **해결책 도출**  
+- ✅ 팀원과 적극적인 **소통 및 협업**  
+- ✅ 조직과 함께 **성장하는 융합형 인재** 지향
 
 ---
 
@@ -83,7 +83,7 @@ Figma, Photoshop, Illustrator, Premiere Pro, After Effects
 - 🐙 GitHub: [Leeyeon52](https://github.com/Leeyeon52)  
 - 📍 Address: 전라북도 완주군  
 
-💡 **의료 AI, 풀스택 개발, 협업 프로젝트 관련 제안 환영합니다!**
+💡 **의료 AI, 풀스택 개발, 협업 프로젝트 관련 제안 및 채용 문의 환영합니다!**
 
 ---
 
