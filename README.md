@@ -42,7 +42,6 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 
 ### 🔹 Design & Multimedia
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe CC](https://img.shields.io/badge/Adobe_CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
