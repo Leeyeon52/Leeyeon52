@@ -18,29 +18,59 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack (Full Version)
 
 <div align="center">
 
-<!-- 주요 AI & 데이터 기술 -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### 🔹 데이터 & 분석
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-FFCF00?style=for-the-badge&logo=scratch&logoColor=black)
 
-<!-- DB & Backend -->
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🔹 프로그래밍 & 개발
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=rest-api&logoColor=white)
+![DB Modeling](https://img.shields.io/badge/DB_Modeling-6C3483?style=for-the-badge&logo=database&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Glide](https://img.shields.io/badge/Glide-00C4B5?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!-- Frontend & UI/UX -->
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 🔹 디자인 & UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
-<!-- Dev Tools -->
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🔹 협업 / 문서화 / 마케팅
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
 
@@ -48,11 +78,10 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 
 ### 📚 분야별 기술 요약
 
-- **데이터 분석 & AI**: Python, R, SQL, MySQL, MongoDB, Power BI  
-- **프로그래밍 & 웹/앱**: HTML, CSS, JavaScript, Flutter, React, Vue.js, Node.js  
-- **백엔드 & API**: Python (Flask, FastAPI), RESTful API, DB 모델링  
+- **데이터 분석 & AI**: SQL, Python, R, MySQL, MongoDB, Power BI, Jupyter Notebook, Google Colab, RStudio, Anaconda, 데이터 시각화, Microsoft Excel/PowerPoint/Word, Scratch  
+- **프로그래밍 & 개발**: HTML, CSS, JavaScript, Flutter/Dart, React, Vue.js, Node.js, Python(Flask, FastAPI), RESTful API, DB 모델링, Unity, Android Studio, Firebase, Glide, Docker, Postman, Git/GitHub, VS Code  
 - **UI/UX & 디자인**: Figma, Photoshop, Illustrator, InDesign, Premiere Pro, After Effects  
-- **개발 도구**: Git, GitHub, VS Code, Jupyter Notebook, Colab, RStudio, Docker, Jira, Confluence
+- **협업 / 문서화 / 마케팅**: Jira, Confluence
 
 ---
 
@@ -71,8 +100,6 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
   - MediTooth: 생성형 AI + 다중 진단 모델 기반 원격 구강 의료 지원 플랫폼 (2025.09)  
 - 📘 **독일어 어학연수 수료**
 
-> 🔹 수상/자격 → 실무 역량과 국제 경험 강조
-
 ---
 
 ## 📁 Projects
@@ -85,13 +112,11 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 - [HoJun-7 Flutter 브랜치](https://github.com/HoJun-7/25_07_21_Flutter/branches)  
 - [MediTooth 브랜치 작업](https://github.com/Lee-Jong-Hyuk-92/MediTooth/branches)
 
-> 💡 프로젝트 → **기술 적용 + 팀 협업 경험** 강조
-
 ---
 
 ## 💡 How I Work
 
-- ✅ **학습과 성장에 항상 열려있음**  
+- ✅ **항상 학습과 성장에 열려있음**  
 - ✅ **기한 준수 & 책임감**  
 - ✅ **문제 해결 중심 사고**  
 - ✅ **팀원과 원활한 협업**  
