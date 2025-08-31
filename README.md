@@ -58,7 +58,7 @@ Figma, Photoshop, Illustrator, Premiere Pro, After Effects
 |------------|------------|------|
 | [📱 Flutter 의료 앱](https://github.com/Leeyeon52/25_07_21_Flutter1) | Flutter, Dart | Flutter 기반 **프론트엔드 개발 참여**, UI/UX 구현 |
 | [🧠 MediTooth 플랫폼](https://github.com/ToothAI-Team) | Python, FastAPI, MongoDB | **치과용 AI 의료 플랫폼** 백엔드 협업, AI 모델 통합 |
-| [📊 DACON 의료 AI 분석](https://github.com/Leeyeon52/Dacon-2025-08-25-Deacon-Basic-Starter) | Python, Jupyter | **의료 데이터 분석 및 모델링** 프로젝트 참여 |
+
 
 👉 협업 브랜치 작업 참고:  
 [HoJun-7 Flutter 브랜치](https://github.com/HoJun-7/25_07_21_Flutter/branches)  
