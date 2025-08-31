@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm 이성윤 (Seongyun Lee)</h1>
-
 <p align="center">
 🧠 AI/ML Learner | 🦷 Medical AI Specialist | 🛠 Full-stack Developer
 </p>
@@ -12,13 +11,11 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 **건양대학교 바이오메디컬 AI 과정**에서 **의료 데이터 분석 & AI 모델 개발** 역량을 쌓고,  
 **Flutter & Python 기반 프로젝트**로 실무 경험을 확보했습니다.
 
-비전공자의 한계를 **꾸준한 학습과 협업**으로 극복하며, 다양한 전문가와 소통하며 **융합형 인재**로 성장 중입니다.  
-
-> 💡 핵심 가치: **학습 · 협업 · 성장**
+💡 핵심 가치: **학습 · 협업 · 성장**
 
 ---
 
-## 🧠 Tech Stack (핵심)
+## 🛠 Tech Stack (핵심)
 
 <div align="center">
 
@@ -43,7 +40,7 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 
 ### 🔹 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe CC](https://img.shields.io/badge/Adobe_CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -54,26 +51,9 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 ### 📚 Skills Summary
 
 - **데이터 & 분석**: Python, R, SQL, MySQL, MongoDB, Power BI, Jupyter, Colab, Excel/Word/PowerPoint  
-- **개발 & 프로그래밍**: Flutter/Dart, React, Vue.js, Node.js, Flask, FastAPI, REST API, DB 모델링, Unity  
-- **UI/UX & 디자인**: Figma, Photoshop, Illustrator, InDesign, Premiere, After Effects  
-- **협업 & 도구**: Git/GitHub, Docker, Jira, Confluence, VS Code, Android Studio, Firebase
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Leeyeon52&show_icons=true&theme=radical" width="450" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeyeon52&layout=compact&theme=radical" width="350" />
-</div>
-
----
-
-## 🏆 Awards & Certifications
-
-- 🏅 **K-디지털 트레이닝 해커톤 수상** (고용노동부 & 한국기술교육대학교)  
-  - MediTooth: 생성형 AI + 다중 진단 모델 기반 원격 구강 의료 지원 플랫폼 (2025.09)  
-- 📘 **독일어 어학연수 수료**
+- **개발 & 프로그래밍**: Flutter/Dart, React, Vue.js, Node.js, Flask, FastAPI, REST API, DB 모델링, Unity, Android Studio, Firebase, Glide  
+- **UI/UX & 디자인**: Figma, Photoshop, Illustrator, InDesign, Premiere Pro, After Effects  
+- **협업 & 도구**: Git/GitHub, Docker, Jira, Confluence, VS Code
 
 ---
 
@@ -89,7 +69,15 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 
 ---
 
-## 💡 How I Work
+## 🏆 Awards & Certifications
+
+- 🏅 **K-디지털 트레이닝 해커톤 수상** (2025.09)  
+  - MediTooth: 생성형 AI + 다중 진단 모델 기반 원격 구강 의료 지원 플랫폼  
+- 📘 **독일어 어학연수 수료**
+
+---
+
+## 💡 Work Style
 
 - ✅ **항상 학습과 성장에 열려있음**  
 - ✅ **기한 준수 & 책임감**  
