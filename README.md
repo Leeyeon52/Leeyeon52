@@ -48,7 +48,6 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
-
 ### 🔹 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -71,13 +70,30 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 
 ## 📁 Projects
 
-| 프로젝트명 | 기술 스택 | 역할 & 설명 |
-|------------|------------|-------------|
-| [📱 Flutter 의료 앱](https://github.com/Leeyeon52/25_07_21_Flutter1) | Flutter, Dart | 프론트엔드 개발 참여, UI/UX 개선 및 기능 구현 |
-| [🧠 MediTooth 플랫폼](https://github.com/ToothAI-Team) | Python, FastAPI, MongoDB | 백엔드 개발, AI 모델 연동, 데이터 관리, 팀 협업 경험 |
+### 📱 Flutter 의료 앱
+- **개요**: 환자가 원격으로 진료 요청을 전송하고, 의사가 이를 관리할 수 있는 Flutter 기반 모바일 앱  
+- **기술 스택**: Flutter, Dart  
+- **역할**: 프론트엔드 UI 개발, UX 개선, 진료 요청·응답 기능 구현  
+- **성과**: 실제 시연이 가능한 프로토타입 앱 완성  
+🔗 [GitHub Repository](https://github.com/Leeyeon52/25_07_21_Flutter)
 
-- [HoJun-7 Flutter 브랜치](https://github.com/HoJun-7/25_07_21_Flutter/branches)  
-- [MediTooth 브랜치 작업](https://github.com/Lee-Jong-Hyuk-92/MediTooth/branches)
+---
+
+### 🧠 MediTooth (의료 AI 진단 플랫폼)
+- **개요**: 구강 이미지를 업로드하면 AI가 충치, 잇몸 질환, 임플란트 상태를 분석하고 리포트를 생성하는 원격 의료 지원 플랫폼  
+- **기술 스택**: Python, FastAPI, MongoDB, TensorFlow  
+- **역할**: AI 모델 학습 및 최적화, FastAPI 기반 백엔드 서버 개발, 데이터베이스 관리  
+- **성과**: 의료 데이터셋 기반 정확도 개선, 해커톤 프로젝트로 발전  
+🔗 [GitHub Team Repo](https://github.com/ToothAI-Team)
+
+---
+
+### 📊 DACON 의료 AI 분석
+- **개요**: 의료 데이터를 분석하고 머신러닝 모델을 활용해 환자 상태 예측 정확도를 높이는 프로젝트  
+- **기술 스택**: Python, Pandas, Scikit-learn, Jupyter Notebook  
+- **역할**: 데이터 전처리, 모델 학습 및 평가, 결과 시각화  
+- **성과**: RMSE 및 Pearson 상관계수 기반 성능 향상 경험 축적  
+🔗 [GitHub Repository](https://github.com/Leeyeon52/DACON)
 
 ---
 
