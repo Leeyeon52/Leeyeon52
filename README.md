@@ -70,30 +70,49 @@ AI 개발로 **사람들의 삶에 긍정적 영향을 만드는 것**을 목표
 
 ## 📁 Projects
 
-### 📱 Flutter 의료 앱
+### 📱 Flutter 의료 앱 (-flutter)
 - **개요**: 환자가 원격으로 진료 요청을 전송하고, 의사가 이를 관리할 수 있는 Flutter 기반 모바일 앱  
 - **기술 스택**: Flutter, Dart  
 - **역할**: 프론트엔드 UI 개발, UX 개선, 진료 요청·응답 기능 구현  
 - **성과**: 실제 시연이 가능한 프로토타입 앱 완성  
-🔗 [GitHub Repository](https://github.com/Leeyeon52/25_07_21_Flutter)
+🔗 [Repository](https://github.com/Leeyeon52/-flutter)
 
 ---
 
-### 🧠 MediTooth (의료 AI 진단 플랫폼)
+### 🧠 MediTooth (의료 AI 진단 플랫폼, backend & doctor-v1)
 - **개요**: 구강 이미지를 업로드하면 AI가 충치, 잇몸 질환, 임플란트 상태를 분석하고 리포트를 생성하는 원격 의료 지원 플랫폼  
-- **기술 스택**: Python, FastAPI, MongoDB, TensorFlow  
-- **역할**: AI 모델 학습 및 최적화, FastAPI 기반 백엔드 서버 개발, 데이터베이스 관리  
-- **성과**: 의료 데이터셋 기반 정확도 개선, 해커톤 프로젝트로 발전  
-🔗 [GitHub Team Repo](https://github.com/ToothAI-Team)
+- **기술 스택**: Python, FastAPI, MongoDB, TensorFlow, Flutter(Dart)  
+- **역할**: AI 모델 학습 및 최적화, FastAPI 기반 백엔드 서버 개발, Flutter 앱과 연동, 데이터베이스 관리  
+- **성과**: 시연 가능한 AI 진단 서비스 및 환자-의사 연결 시스템 구현  
+🔗 [Backend Repo](https://github.com/Leeyeon52/backend)  
+🔗 [Doctor-v1 Repo](https://github.com/Leeyeon52/doctor-v1)
 
 ---
 
-### 📊 DACON 의료 AI 분석
+### 🔍 YOLO Flutter App (yolo-flutterapp)
+- **개요**: YOLO 모델을 Flutter와 연동하여 이미지/영상 객체 감지 기능을 제공하는 모바일 앱  
+- **기술 스택**: Flutter, Dart, TensorFlow Lite  
+- **역할**: YOLO 모델 경량화 및 모바일 최적화, Flutter UI 개발  
+- **성과**: 모바일 환경에서 실시간 객체 탐지 구현 성공  
+🔗 [Repository](https://github.com/Leeyeon52/yolo-flutterapp)
+
+---
+
+### 📊 DACON 의료 데이터 분석 (DACON)
 - **개요**: 의료 데이터를 분석하고 머신러닝 모델을 활용해 환자 상태 예측 정확도를 높이는 프로젝트  
 - **기술 스택**: Python, Pandas, Scikit-learn, Jupyter Notebook  
 - **역할**: 데이터 전처리, 모델 학습 및 평가, 결과 시각화  
 - **성과**: RMSE 및 Pearson 상관계수 기반 성능 향상 경험 축적  
-🔗 [GitHub Repository](https://github.com/Leeyeon52/DACON)
+🔗 [Repository](https://github.com/Leeyeon52/DACON)
+
+---
+
+### 📈 Stress Index Prediction (Dacon-2025-08-25)
+- **개요**: 건강 데이터 기반으로 개인의 스트레스 지수를 예측하는 머신러닝 프로젝트  
+- **기술 스택**: Python, Scikit-learn, XGBoost, Jupyter Notebook  
+- **역할**: 데이터 정제 및 피처 엔지니어링, 다양한 ML 모델 학습 및 성능 비교  
+- **성과**: 기본 모델 대비 예측 정확도 향상, Kaggle/DACON 스타일 대회 경험 축적  
+🔗 [Repository](https://github.com/Leeyeon52/Dacon-2025-08-25-Deacon-Basic-Stress-Index-Prediction-Find-Balance-with-Health-Data-)
 
 ---
 
